@@ -1,0 +1,20 @@
+# Dependencies & local runtimes
+node_modules/
+.pnpm-store/
+
+# Vite production build output
+dist/
+dist-ssr/
+
+# Playwright & QA test artifacts
+test-results/
+playwright-report/
+blob-report/
+playwright/.cache/
+
+# OS / Editor junk
+.DS_Store
+*.local
+.env
+
+salto-angel-photos/
